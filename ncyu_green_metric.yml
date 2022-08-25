@@ -1,0 +1,42 @@
+# Setting and Infrastructure
+SI:
+  basic_information:
+    - university_type: comprehensive
+    - campus_number: 4
+    - campus_setting:
+    - campus_area_lantan: 1158600 # Lantan Campus area in square-meter
+    - campus_area_mingsyong: 203300
+    - campus_area_linsen: 51200
+    - campus_sinmin: 110900
+    - total_campus_area:
+    - ground_floor_area:
+    - building_area:
+    - students_number: 11605
+    - teachers_number: 466
+    - employee_number: 399
+  SI1: The ratio of open space area to the total area
+  SI2: Total area on campus covered in forest vegetation
+  SI3: Total area on campus covered in planted vegetation
+  SI4: Total area on campus for water absorption besides the forest and planted vegetation
+  SI5: The total open space area divided by the total campus population
+  SI6: Percentage of university budget for sustainability efforts
+  SI7: Percentage of operation and maintenance activities of building in one year period
+  SI8: Campus facilities for disabled, special needs, and/or maternity care
+  SI9: Security and safety facilities 100
+  SI10: Health infrastructure facilities for students, academics, and administrative staff’s wellbeing
+  SI11: Conservation\: plant (flora), animal (fauna), and wildlife, genetic resources for food and agriculture secured in either medium or long-term conservation facilities
+
+# Energy and Climate Change
+EC:
+
+# Waste (WS)
+WS:
+
+# Water (WR)
+WR:
+
+# Transportation (TR)
+TR:
+
+# Education and Research (ED)
+ED:
